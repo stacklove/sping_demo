@@ -4,5 +4,8 @@ public class TestPool {
     public static void main(String[] args) {
         ConnectionPoolManager instance = ConnectionPoolManager.getInstance();
         System.out.println("123456");
+
+
+        int a = 10;
     }
 }
